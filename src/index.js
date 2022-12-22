@@ -24,7 +24,7 @@ const router = createBrowserRouter([
 			{ path: '/edit', element: <ProtectedRoute requireAdmin><EditProduct /></ProtectedRoute> },
 		]
 	}
-])
+], {basename: process.env.PUBLIC_URL})
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
