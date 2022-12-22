@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-normal-shop/static/css/main.bcb7feb5.css",
+    "main.js": "/simple-normal-shop/static/js/main.82b58bbe.js",
+    "static/js/787.50637a5b.chunk.js": "/simple-normal-shop/static/js/787.50637a5b.chunk.js",
+    "index.html": "/simple-normal-shop/index.html",
+    "main.bcb7feb5.css.map": "/simple-normal-shop/static/css/main.bcb7feb5.css.map",
+    "main.82b58bbe.js.map": "/simple-normal-shop/static/js/main.82b58bbe.js.map",
+    "787.50637a5b.chunk.js.map": "/simple-normal-shop/static/js/787.50637a5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcb7feb5.css",
+    "static/js/main.82b58bbe.js"
+  ]
+}
